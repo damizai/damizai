@@ -1,4 +1,3 @@
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/count.svg)](https://biuxin.com/) visitor, Thank You!🎉🎉
 # Hey, Hello，World! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> 
 ### I'm damizai
 **I am a newbie who is trying to learn. Thank you for your visit. I hope you can find what you need here.🚀**
